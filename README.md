@@ -1,10 +1,3 @@
-```javascript
-const sum = (a, b) => {
-  const bigA = BigInt(a);
-  const bigB = BigInt(b);
-  return bigA + bigB;
-};
-
-```javascript
-const sum = (a, b) => a + b;
-```
+function addNumbers(a, b) {
+  return num1 + num2; // ❌ Error: num1 and num2 don’t exist
+}
