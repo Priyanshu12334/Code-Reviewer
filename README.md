@@ -1,3 +1,4 @@
+```javascript
 const sum = (a, b) => {
   const bigA = BigInt(a);
   const bigB = BigInt(b);
@@ -6,3 +7,4 @@ const sum = (a, b) => {
 
 ```javascript
 const sum = (a, b) => a + b;
+```
