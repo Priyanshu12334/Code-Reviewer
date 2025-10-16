@@ -1,10 +1,1 @@
-```javascript
-const sum = (a, b) => {
-  const bigA = BigInt(a);
-  const bigB = BigInt(b);
-  return bigA + bigB;
-};
-
-```javascript
-const sum = (a, b) => a + b;
-```
+The Code Reviewer App helps developers review, analyze, and improve their code more efficiently. It uses AI-powered suggestions to detect errors, highlight best practices, and recommend cleaner, more optimized solutions. The app supports multiple programming languages and integrates with popular version control platforms like GitHub and GitLab.
